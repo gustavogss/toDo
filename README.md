@@ -21,3 +21,8 @@ Desafio 2 - Atualização do aplicativo
 - Estados e Eventos
 - Flipper para testes
 
+# Aplicativo toDo:
+
+
+https://user-images.githubusercontent.com/20332960/213897980-de3d5e7c-b40e-45ca-bc75-027a731c3440.mp4
+
