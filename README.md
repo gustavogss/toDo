@@ -23,6 +23,8 @@ Desafio 2 - Atualização do aplicativo
 
 # Aplicativo toDo:
 
+https://user-images.githubusercontent.com/20332960/213897999-baa6ca08-7c2a-42a9-8d99-e169671f3208.mp4
 
-https://user-images.githubusercontent.com/20332960/213897980-de3d5e7c-b40e-45ca-bc75-027a731c3440.mp4
+
+
 
